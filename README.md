@@ -1,4 +1,4 @@
 # Ankitry
 This my new project.
 <br>
-author - Ankit pal
+author - Ankit pal (akki)
